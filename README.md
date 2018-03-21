@@ -1,4 +1,4 @@
-# Directed_Research
+#IOT_TestBed_Enhancement
 
 The main objective is to deploy the IOT devices (IoTSC) around the campus to collect data from various sensors wirelessly over MQTT protocol. It provides a very large scale infrastructure suitable for testing small wireless sensor devices and heterogeneous communicating objects. It also enables full control of network nodes and direct access to the gateways to which nodes are connected, allowing us to monitor nodes energy consumption and network-related metrics. Once the data is collected at the server, the runtime visualization of the data can be witnessed.
 
